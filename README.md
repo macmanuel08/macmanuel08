@@ -1,4 +1,4 @@
-## Hi there, I'm Mark 👋 -  Click here my portfolio: [Mark Manuel](https://macmanuel08.github.io/)
+## Hi there, I'm Mark 👋 -  Click here for my portfolio: [Mark Manuel](https://macmanuel08.github.io/)
 
 ### I'm a part artist and part computer geek!!
 
