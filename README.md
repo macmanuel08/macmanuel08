@@ -1,4 +1,4 @@
-### Hi there, I'm Mark - Click here my portfolio: [Mark Manuel][https://macmanuel08.github.io/] 👋
+### Hi there, I'm Mark 👋 -  Click here my portfolio: [Mark Manuel](https://macmanuel08.github.io/)
 
 ## I'm a Web Developer and Desciple!!
 
@@ -10,10 +10,10 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Online Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://macmanuel08.github.io/]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UC-5rwXBE_jqX1DKzB1ibvpw]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/manuel-jm08/]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/manuel.jm08/]
+[<img align="left" alt="Online Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://macmanuel08.github.io/)
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC-5rwXBE_jqX1DKzB1ibvpw)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/manuel-jm08/)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/manuel.jm08/)
 
 <br />
 
