@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to listen to electro music and watch horror and romantic movies
 - 📫 Shoot me an email at manueljm016@gmail.com
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="Online Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://macmanuel08.github.io/)
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC-5rwXBE_jqX1DKzB1ibvpw)
