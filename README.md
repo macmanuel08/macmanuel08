@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning frameworks in web development 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 Goal: Obtain an internship or entry level job to exercise and improve my capacity
+- 🥅 Goal: Obtain an internship or entry-level job to exercise and improve my capacity
 - ⚡ Fun fact: I love to listen to electro music and watch horror and romantic movies
 - 📫 Shoot me an email at manueljm016@gmail.com
 
