@@ -2,9 +2,9 @@
 
 ### I'm a part artist and part computer geek!!
 
-- 🌱 I’m currently learning frameworks in web development 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Goal: Obtain an internship or entry-level job to exercise and improve my capacity
+- 🌱 I’m currently working as frontend developer at Roya.com Media Design (office-based)
+- 👯 I’m looking for remote job with the same position
+- 🥅 Goal: Obtain a job in developing web sites or web apps to exercise and improve my capacity both in frontend and backend
 - ⚡ Fun fact: I love to listen to electro music and watch horror and romantic movies
 - 📫 Shoot me an email at manueljm016@gmail.com
 
